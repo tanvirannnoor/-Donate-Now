@@ -26,7 +26,7 @@ p{
     text-align: center;
     padding-top: 5%;
     padding-bottom: 5%;
-    background-image: url(./images/donation13.jpg);
+    background-image: url(./Images/donation13.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
 }
@@ -170,7 +170,7 @@ p{
 }
 
 #phase-image{
-    background-image: url(./images/5e7c50b26920e.jpeg);
+    background-image: url(./Images/5e7c50b26920e.jpeg);
     background-size: 100%;
     background-repeat: no-repeat;
     height: 750px;
